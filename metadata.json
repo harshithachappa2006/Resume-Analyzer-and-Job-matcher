@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyzer - n8n Workflow Hub",
+  "description": "AI-powered resume analysis, ATS scoring, and automated workflow pipeline connected with n8n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
